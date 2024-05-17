@@ -3,14 +3,10 @@ import Header from "./components/Header";
 import Intro from "./components/Intro";
 
 const App = () => {
-  
   return (
     <div>
-      <Header title="hello" />
+      <Header title="hellomas" />
       <Header title="ikkinchiis" />
-      <Header title="uchinchisi" />
-      <Header />
-      <Intro />
     </div>
   );
 };
